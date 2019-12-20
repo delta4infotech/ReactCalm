@@ -1,0 +1,3 @@
+const websiteUrl = "";
+
+export { websiteUrl };
