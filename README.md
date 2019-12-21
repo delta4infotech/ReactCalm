@@ -8,15 +8,15 @@ It's an Open Source Boilerplate carfted by **Community Developers** for architec
 
 - ReactCalm is simple in terms of architecture.
 - ReactCalm is flexible to modify Project architecture according to your comfort.
-- ReactCalm is well organised to easily maintain scalable frontend
-- Git clone -> npm install -> project is ready to use 
+- ReactCalm is well organised to easily maintain scalable frontend.
+- Git clone -> npm install -> project is ready to use. 
 
-## How to use ReactCalm boilerplate??
-- Clone the Repository
+## How to use ReactCalm??
+- Clone ReactCalm Repository
 ```bash
     git clone https://github.com/skyrocketscommunity/ReactCalm.git
 ```
-- install the packages 
+- Install NPM packages 
 ```bash
     npm install
 ```
