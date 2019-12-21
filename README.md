@@ -13,13 +13,13 @@ It's an Open Source Boilerplate carfted by **Community Developers** for architec
 
 ## How to use ReactCalm boilerplate??
 - Clone the Repository
- 
-
-    git clone https://github.com/skyrocketscommunity/ReactCalm.git
+```bash
+git clone https://github.com/skyrocketscommunity/ReactCalm.git
+```
 - install the packages 
-  
-
+```bash
     npm install
+```
 - Your Frontend Project Architecture is ready 🤙
 
 ## Requirements
