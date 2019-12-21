@@ -1,4 +1,4 @@
-# React-Boilerplate
+# ReactCalm
 A Powerful,Flexible and Scalable boilerplate for your React Project.ReactCalm helps you to keep Calm,you don't need to worry about building react frontend architecure.Just spend your time on building your ideas or projects on Amazing JS Framework. 
 
 
