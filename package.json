@@ -1,5 +1,5 @@
 {
-  "name": "prankcaller",
+  "name": "react-calm",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,15 +13,16 @@
     "react-scripts": "3.2.0",
     "react-transition-group": "^4.3.0",
     "redux": "^4.0.4",
-    "redux-thunk": "^2.3.0",
+    "redux-thunk": "^2.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "reactcalm":"react-scripts start",
-    "postinstall":"node -e \"require('fs').rename('src/config/example.config.js', 'src/config/config.js', function(err) { if (err) console.log(err); console.log('File successfully renamed!') })\""
+    "reactcalm": "react-scripts start",
+   
+      "postinstall":"node -e "if (require('fs').existsSync("src/config/config.js")===false) { require('fs').rename('src/config/example.config.js', 'src/config/config.js', function(err) { if (err) console.log(err); console.log('File successfully renamed!') })"}"
   },
   "eslintConfig": {
     "extends": "react-app"
